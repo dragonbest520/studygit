@@ -1,2 +1,3 @@
 Hello git!
 You are my hero.
+Git is free. Freedom!
