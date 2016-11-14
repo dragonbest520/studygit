@@ -1,3 +1,5 @@
 Hello git!
 You are my hero.
 Git is free. Freedom!
+Git is distributed version control system.
+Git free software distributed under GPL.
